@@ -31,6 +31,7 @@ Ao concluir este desafio, você será capaz de:
 
 ### 2. Desenvolvimento da Função Lambda
 A função Lambda será acionada sempre que um novo objeto for criado no bucket.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1521259-b520-4202-ad7f-7648c46a0244" />
 
 **Exemplo simples em Python:**
 ```python
@@ -64,3 +65,4 @@ lambda-s3-automation/
 
    ", event)
        return {"status": "success"}
+
